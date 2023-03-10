@@ -5,4 +5,4 @@
   + Discord: https://discord.com/users/859095840674979870
   + Email: ringarang@ringarang.com
 
-![ringarang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ringarang&show_icons=true&theme=dracula
+![ringarang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ringarang&show_icons=true&theme=dracula)
